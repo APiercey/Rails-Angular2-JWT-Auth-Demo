@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  username: cors_demo
+  password: cors_demo
+  database: cors_demo

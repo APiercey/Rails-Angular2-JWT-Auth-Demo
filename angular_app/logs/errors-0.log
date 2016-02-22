@@ -1,0 +1,452 @@
+2016-02-11 14:16 +01:00: DEPRECATION WARNING: 'enqueueTask' is no longer supported and will be removed in next major release. Use addTask/addRepeatingTask/addMicroTask
+2016-02-11 14:16 +01:00: DEPRECATION WARNING: 'dequeueTask' is no longer supported and will be removed in next major release. Use removeTask/removeRepeatingTask/removeMicroTask
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 14:32 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+2016-02-11 15:47 +01:00:     throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+2016-02-11 15:47 +01:00: 
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 15:47 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+2016-02-11 16:33 +01:00:     throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+2016-02-11 16:33 +01:00:     throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+2016-02-11 16:33 +01:00:     at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
+2016-02-11 16:33 +01:00: module.js:327
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/apiercey/DemoProjects/angular2-universal-starter/node_modules/pm2/lib/ProcessContainerFork.js'
+    at Function.Module._resolveFilename (module.js:325:15)
+    at Function.Module._load (module.js:276:25)
+    at Function.Module.runMain (module.js:429:10)
+    at startup (node.js:139:18)
+    at node.js:999:3
